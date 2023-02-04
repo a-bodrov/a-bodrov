@@ -36,5 +36,15 @@
 <a href="https://code.visualstudio.com/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png" alt="VScode" width="50" height="50" />
 </a>
+<a href="https://developer.android.com/studio">
+<img src="https://techcrunch.com/wp-content/uploads/2020/10/image9.png?resize=267,300" alt="Android Studio" width="60" height="60" />
+</a>
+<a href="https://www.microsoft.com/ru-ru/sql-server/">
+<img src="https://unifysolutions.net/supportedproduct/microsoft-sql-server/SQL-Databases.svg" alt="MS SQL" width="50" height="50" />
+</a>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="50" height="50" />
+</a>
 
 </p>
